@@ -1,6 +1,8 @@
 [submodule "front_test"]
 	path = front_test
 	url = git@github.com:bezura/front_test.git
+	branch = main
 [submodule "back_test"]
 	path = back_test
 	url = git@github.com:bezura/back_test.git
+	branch = main
